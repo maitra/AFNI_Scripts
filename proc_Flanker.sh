@@ -25,7 +25,7 @@ endif
 if ( $#argv > 0 ) then
     set subj = $argv[1]
 else
-    set subj = s01
+    set subj = sub-08
 endif
 
 # assign output directory name
